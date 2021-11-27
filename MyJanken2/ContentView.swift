@@ -69,3 +69,4 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 }
+// telumoが作業しました。
